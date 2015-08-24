@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: springdemo_Maven_Webapp
+Bundle-SymbolicName: springdemo_Maven_Webapp
+Bundle-Version: 1.0.0.qualifier
